@@ -6,7 +6,18 @@
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
-  {% include nav.html %}
+
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title">Purple City Tech</h1>
+    {% include nav.html %}
+  </div>
+</header>
+
+<main class="container">
   {{ content }}
+</main>
+
 </body>
 </html>
+
