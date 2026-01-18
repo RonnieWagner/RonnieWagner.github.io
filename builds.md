@@ -6,6 +6,14 @@ permalink: /builds.html
 
 ## Current & Past Builds
 
-This page will list available and completed builds.
+{% for build in site.builds %}
+### {{ build.title }}
 
-Coming next.
+- **Price:** {{ build.price }}
+- **Status:** {{ build.status }}
+
+[View build details →]({{ build.url }})
+
+---
+{% endfor %}
+
