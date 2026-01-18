@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permlink: /about/
+permlink: /about.html
 ---
 
 ## About Purple City Tech
