@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Builds
-permalink: /builds/
+permalink: /builds.html
 ---
 
 ## Current & Past Builds
