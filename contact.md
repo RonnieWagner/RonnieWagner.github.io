@@ -6,7 +6,10 @@ permalink: /contact.html
 
 ## Contact
 
-For inquiries about builds or services:
+For inquiries about custom builds, availability, or partnerships:
 
-📧 Email: **purplecitytech@gmail.com**  
-📸 Instagram: **@purplecitytech**
+📧 **business@purplecity.tech**
+
+You can also reach us on Instagram:  
+📸 **@purplecitytech**
+
