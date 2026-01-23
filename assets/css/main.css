@@ -36,6 +36,7 @@ body {
   font-size: 2rem;
   font-weight: 700;
   margin: 0;
+  text-align: center;
 }
 
 /* Navigation */
@@ -216,8 +217,9 @@ main > p {
 }
 
 .home-values .value h3 {
-  margin: 0 0 0.5rem;
+  mmargin: 0 0 0.5rem;
   font-weight: 600;
+  color: #fff;
 }
 
 .home-values .value p {
